@@ -1,0 +1,194 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top-header{
+
+background: #efefef;
+
+padding: 10px 0;
+}
+.top-header p{
+
+font-size: 12px;
+
+margin: 0;
+
+color: #7f7f7f;
+}
+.top-header ul{
+
+margin: 0;
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+}
+.top-header ul li{
+}
+.top-header ul li a{
+    
+color: #7f7f7f;
+    
+text-transform: uppercase;
+    
+font-size: 14px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #f78f2f;
+    border-color: #f78f2f; 
+    border-radius: 50px;
+    color: #ffff !important;}
+    
+.navbar-light .navbar-nav .nav-link {
+        text-transform: uppercase;
+        color: #161616;
+        font-size: 15px;
+        font-family: sans-serif;
+}
+.navbar {
+    padding: 15px 0;
+}
+.btn-primary:hover{
+    background-color: #e2740c;
+    border-color: #e2740c;
+}
+.banner{
+    background-image: url(../images/banner.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.banner .row{
+    min-height: 500px;
+}
+.banner h1{
+
+color: #efef;
+
+font-size: 50px;
+
+}
+.banner ul{
+
+color: #efef;
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-evenly;
+
+margin: 0;
+
+padding: 15px 0;
+text-align: center;
+}
+.banner ul li{
+    
+}
+.banner ul li h5{
+
+font-weight: 700;
+
+text-transform: capitalize;
+}
+.banner ul li h6{
+
+text-transform: capitalize;
+}
+.btn-transparant{
+    background-color:transparent ;
+    border:1px solid gray;
+    margin-left: 20px;
+}
+
+.verify{
+    
+}
+.verify-item{
+
+box-shadow: 0px 0px 2px 0px #788278;
+
+text-align: center;
+
+padding: 20px;
+}
+.verify-item:hover{
+    background-image: url(../images/img-1.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.verify-item i{
+font-size: 60px;
+color: #f78f2f;
+}
+.verify-item:hover i{
+color: #fff;
+}
+.verify-item h3{
+
+padding: 10px 0;
+}
+.verify-item:hover h3{
+    color: #fff;
+}
+.verify-item p{
+    
+color: #545454;
+}
+.verify-item:hover p{
+    color: #fff;
+}
+.services{
+
+}
+.services h2{
+
+text-transform: uppercase;
+
+font-size: 24px;
+
+font-weight: 700;
+}
+.services p{
+
+}
+.services span{
+    display: inline-block;
+    height: 3px;
+    width: 50px;
+    background: #f78f2f;
+}
+.bitcoin{
+
+}
+.bitcoin h5{
+
+text-transform: capitalize;
+
+padding: 10px 0;
+}
+.bitcoin p{
+    
+}
+.row button{
+    background-color:transparent;
+    border:1px solid gray;
+    text-transform: uppercase;
+    border-radius: 22px;
+    padding: 5px 20px;
+}
+.row button:hover{
+    background-color: #f78f2f;
+    color: #fff;
+    border:#f78f2f;
+}
+
+
+
